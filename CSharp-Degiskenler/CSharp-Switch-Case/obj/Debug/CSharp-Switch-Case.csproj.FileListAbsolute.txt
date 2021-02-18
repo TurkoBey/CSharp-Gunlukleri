@@ -1,7 +1,0 @@
-C:\Users\ATA\Documents\GitHub\CSharp-Gunlukleri\CSharp-Degiskenler\CSharp-Switch-Case\bin\Debug\CSharp-Switch-Case.exe.config
-C:\Users\ATA\Documents\GitHub\CSharp-Gunlukleri\CSharp-Degiskenler\CSharp-Switch-Case\bin\Debug\CSharp-Switch-Case.exe
-C:\Users\ATA\Documents\GitHub\CSharp-Gunlukleri\CSharp-Degiskenler\CSharp-Switch-Case\bin\Debug\CSharp-Switch-Case.pdb
-C:\Users\ATA\Documents\GitHub\CSharp-Gunlukleri\CSharp-Degiskenler\CSharp-Switch-Case\obj\Debug\CSharp-Switch-Case.csprojAssemblyReference.cache
-C:\Users\ATA\Documents\GitHub\CSharp-Gunlukleri\CSharp-Degiskenler\CSharp-Switch-Case\obj\Debug\CSharp-Switch-Case.csproj.CoreCompileInputs.cache
-C:\Users\ATA\Documents\GitHub\CSharp-Gunlukleri\CSharp-Degiskenler\CSharp-Switch-Case\obj\Debug\CSharp-Switch-Case.exe
-C:\Users\ATA\Documents\GitHub\CSharp-Gunlukleri\CSharp-Degiskenler\CSharp-Switch-Case\obj\Debug\CSharp-Switch-Case.pdb
