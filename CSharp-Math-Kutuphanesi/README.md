@@ -1,8 +1,5 @@
 
-# C# Günlükleri - Konular
-
-
-####Csharp Console　
+# C# Math Kütüphanesi
 
 ```csharp
 Console.WriteLine("C# Math Kütüphanesi\n\n");
