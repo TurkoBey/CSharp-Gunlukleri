@@ -18,6 +18,7 @@ Console.WriteLine($"Sqrt     ==>> [{Math.Sqrt(100)}]" + " Bir sayının karakök
 Console.WriteLine($"Truncate ==>> [{Math.Truncate(15.49345)}]" + " Double veya Decimal türünden sayıların, virgülden sonraki kısmını atarak bize tam sayısını döndürür.. Örğ: (15.49345) = 15 değerini sonuçun ekrana yazdırır.\n");
 Console.WriteLine($"Round    ==>> [{Math.Round(10.49)}]" + " Sayının sayının virgülden sonraki kısmına göre aşağı ya da yukarı yuvarlar. Örğ: (10.49) = 10 değerini sonuçun ekrana yazdırır.");
 Console.WriteLine($"Round    ==>> [{Math.Round(10.51)}]" + " Sayının sayının virgülden sonraki kısmına göre aşağı ya da yukarı yuvarlar. Örğ: (10.51) = 11 değerini sonuçun ekrana yazdırır.");
+Console.WriteLine($"Round    ==>> [{Math.Round((32.53423334),2)}]" + " Sayının noktadan sonraki kısmını belirlemezi yarar. Örğ: (32.53423334) = 32.53  noktadan sonra 2 ddeğerin sonuçun ekrana yazdırır.");
 
 Console.WriteLine("\n###Trigonometrik Fonksiyonlar###");
 Console.WriteLine($"Sin      ==>> [{Math.Sin(90)}]" + " Açının sinüsünü verir.");
