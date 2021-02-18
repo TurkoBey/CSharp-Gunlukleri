@@ -1,0 +1,7 @@
+C:\Users\ATA\source\repos\CSharp-Math-Kutuphanesi\CSharp-Math-Kutuphanesi\bin\Debug\CSharp-Math-Kutuphanesi.exe.config
+C:\Users\ATA\source\repos\CSharp-Math-Kutuphanesi\CSharp-Math-Kutuphanesi\bin\Debug\CSharp-Math-Kutuphanesi.exe
+C:\Users\ATA\source\repos\CSharp-Math-Kutuphanesi\CSharp-Math-Kutuphanesi\bin\Debug\CSharp-Math-Kutuphanesi.pdb
+C:\Users\ATA\source\repos\CSharp-Math-Kutuphanesi\CSharp-Math-Kutuphanesi\obj\Debug\CSharp-Math-Kutuphanesi.csprojAssemblyReference.cache
+C:\Users\ATA\source\repos\CSharp-Math-Kutuphanesi\CSharp-Math-Kutuphanesi\obj\Debug\CSharp-Math-Kutuphanesi.csproj.CoreCompileInputs.cache
+C:\Users\ATA\source\repos\CSharp-Math-Kutuphanesi\CSharp-Math-Kutuphanesi\obj\Debug\CSharp-Math-Kutuphanesi.exe
+C:\Users\ATA\source\repos\CSharp-Math-Kutuphanesi\CSharp-Math-Kutuphanesi\obj\Debug\CSharp-Math-Kutuphanesi.pdb

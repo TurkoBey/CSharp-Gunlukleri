@@ -26,11 +26,11 @@ namespace CSharp_Degiskenler
 			Console.WriteLine($"double  ==>> [{double.MinValue}] ile [{double.MaxValue}] arasındaki değerleri tutabilir.\n");
 
 			Console.WriteLine($"bool    ==>> [{bool.TrueString}] ile [{bool.FalseString}] değerlerini tutabilir.\n");
-			
+
 			Console.WriteLine($"char    ==>> [Örğ: char='s'] tek karakter değerleri tutabilir.\n");
-			
+
 			Console.WriteLine($"string  ==>> [Örğ: string={"\"Bu bir metindir.\""}]");
 			Console.ReadLine();
-		}
+		}	
 	}
 }
