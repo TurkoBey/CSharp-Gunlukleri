@@ -1,0 +1,7 @@
+C:\Users\ATA\source\repos\CSharp-Switch-Case\CSharp-Switch-Case\bin\Debug\CSharp-Switch-Case.exe.config
+C:\Users\ATA\source\repos\CSharp-Switch-Case\CSharp-Switch-Case\bin\Debug\CSharp-Switch-Case.exe
+C:\Users\ATA\source\repos\CSharp-Switch-Case\CSharp-Switch-Case\bin\Debug\CSharp-Switch-Case.pdb
+C:\Users\ATA\source\repos\CSharp-Switch-Case\CSharp-Switch-Case\obj\Debug\CSharp-Switch-Case.csprojAssemblyReference.cache
+C:\Users\ATA\source\repos\CSharp-Switch-Case\CSharp-Switch-Case\obj\Debug\CSharp-Switch-Case.csproj.CoreCompileInputs.cache
+C:\Users\ATA\source\repos\CSharp-Switch-Case\CSharp-Switch-Case\obj\Debug\CSharp-Switch-Case.exe
+C:\Users\ATA\source\repos\CSharp-Switch-Case\CSharp-Switch-Case\obj\Debug\CSharp-Switch-Case.pdb

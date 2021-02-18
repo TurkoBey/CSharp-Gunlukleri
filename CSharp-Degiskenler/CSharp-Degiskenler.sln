@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp-Degiskenler", "CSharp-Degiskenler\CSharp-Degiskenler.csproj", "{3BA70EAC-1DF8-483F-8871-56704A7211AF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp-Math-Kutuphanesi", "CSharp-Math-Kutuphanesi\CSharp-Math-Kutuphanesi.csproj", "{0F568B50-0EAD-4926-B5E3-2FC165F83ABF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp-Switch-Case", "CSharp-Switch-Case\CSharp-Switch-Case.csproj", "{766C200C-F441-4C1A-BD23-1F907477DB5E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{3BA70EAC-1DF8-483F-8871-56704A7211AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3BA70EAC-1DF8-483F-8871-56704A7211AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3BA70EAC-1DF8-483F-8871-56704A7211AF}.Release|Any CPU.Build.0 = Release|Any CPU
-		{0F568B50-0EAD-4926-B5E3-2FC165F83ABF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0F568B50-0EAD-4926-B5E3-2FC165F83ABF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0F568B50-0EAD-4926-B5E3-2FC165F83ABF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0F568B50-0EAD-4926-B5E3-2FC165F83ABF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{766C200C-F441-4C1A-BD23-1F907477DB5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{766C200C-F441-4C1A-BD23-1F907477DB5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{766C200C-F441-4C1A-BD23-1F907477DB5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{766C200C-F441-4C1A-BD23-1F907477DB5E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
