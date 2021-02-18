@@ -31,7 +31,7 @@
 Konu Başlığı  | Link
 ------------- | -------------
 Degiskenler  | [Proje Detayi](https://github.com/TurkoBey/CSharp-Gunlukleri/tree/master/CSharp-Degiskenler)
-
+Math  | [Proje Detayi](https://github.com/TurkoBey/CSharp-Gunlukleri/tree/master/CSharp-Math-Kutuphanesi)
 ----
                     
 ###Projeler###
