@@ -1,0 +1,7 @@
+C:\Users\ATA\source\repos\CSharp-Alan-Hesaplama\CSharp-Alan-Hesaplama\bin\Debug\CSharp-Alan-Hesaplama.exe.config
+C:\Users\ATA\source\repos\CSharp-Alan-Hesaplama\CSharp-Alan-Hesaplama\bin\Debug\CSharp-Alan-Hesaplama.exe
+C:\Users\ATA\source\repos\CSharp-Alan-Hesaplama\CSharp-Alan-Hesaplama\bin\Debug\CSharp-Alan-Hesaplama.pdb
+C:\Users\ATA\source\repos\CSharp-Alan-Hesaplama\CSharp-Alan-Hesaplama\obj\Debug\CSharp-Alan-Hesaplama.csprojAssemblyReference.cache
+C:\Users\ATA\source\repos\CSharp-Alan-Hesaplama\CSharp-Alan-Hesaplama\obj\Debug\CSharp-Alan-Hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\ATA\source\repos\CSharp-Alan-Hesaplama\CSharp-Alan-Hesaplama\obj\Debug\CSharp-Alan-Hesaplama.exe
+C:\Users\ATA\source\repos\CSharp-Alan-Hesaplama\CSharp-Alan-Hesaplama\obj\Debug\CSharp-Alan-Hesaplama.pdb
