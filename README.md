@@ -1,9 +1,6 @@
 
 # C# Günlükleri - Konular
 
-
-####Csharp Console　
-
 ```csharp
 	static void Main(string[] args)
 	{
