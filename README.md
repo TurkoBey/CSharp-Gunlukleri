@@ -14,10 +14,6 @@
 		string surname = "Bey";
 		string title = "C#'i PROJELERLE ÖĞRENİYORUZ...";
 		string welcome = "Hoşgeldiniz..";
-
-		Console.WriteLine(name + surname + "\n");
-		Console.WriteLine(title + "\n");
-		Console.WriteLine(welcome + "\n");
 	}
 ```
 
