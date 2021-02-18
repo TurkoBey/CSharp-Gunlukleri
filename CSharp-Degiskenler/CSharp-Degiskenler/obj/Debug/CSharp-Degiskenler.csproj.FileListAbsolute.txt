@@ -1,0 +1,7 @@
+C:\Users\ATA\source\repos\CSharp-Degiskenler\CSharp-Degiskenler\bin\Debug\CSharp-Degiskenler.exe.config
+C:\Users\ATA\source\repos\CSharp-Degiskenler\CSharp-Degiskenler\bin\Debug\CSharp-Degiskenler.exe
+C:\Users\ATA\source\repos\CSharp-Degiskenler\CSharp-Degiskenler\bin\Debug\CSharp-Degiskenler.pdb
+C:\Users\ATA\source\repos\CSharp-Degiskenler\CSharp-Degiskenler\obj\Debug\CSharp-Degiskenler.csprojAssemblyReference.cache
+C:\Users\ATA\source\repos\CSharp-Degiskenler\CSharp-Degiskenler\obj\Debug\CSharp-Degiskenler.csproj.CoreCompileInputs.cache
+C:\Users\ATA\source\repos\CSharp-Degiskenler\CSharp-Degiskenler\obj\Debug\CSharp-Degiskenler.exe
+C:\Users\ATA\source\repos\CSharp-Degiskenler\CSharp-Degiskenler\obj\Debug\CSharp-Degiskenler.pdb
