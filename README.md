@@ -38,4 +38,4 @@ Proje Başlığı  | Link
 ------------- | -------------
 Vucut-Kitle-Endeksi-Hesaplama  | [Proje Detayi](https://github.com/TurkoBey/Vucut-Kitle-Indeksi-Hesaplama)
 Password-Generator | [Proje Detayi](https://github.com/TurkoBey/Password-Generator)
-Alan Hesaplama  | [Proje Detayi](https://github.com/TurkoBey/CSharp-Gunlukleri/tree/master/CSharp-Alan-Hesaplama)
+Alan Hesaplama  | [Proje Detayi](https://github.com/TurkoBey/CSharp-Alan-Hesaplama)
