@@ -7,12 +7,11 @@
 		details();
 		Console.ReadLine();
 	}
-
 	private static void details()
 	{
-		string name = "Turko";
+		string name    = "Turko";
 		string surname = "Bey";
-		string title = "C#'i PROJELERLE ÖĞRENİYORUZ...";
+		string title   = "C#'i PROJELERLE ÖĞRENİYORUZ...";
 		string welcome = "Hoşgeldiniz..";
 	}
 ```
