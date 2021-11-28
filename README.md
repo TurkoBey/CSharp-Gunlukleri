@@ -11,7 +11,7 @@
 	{
 		string name    = "Turko";
 		string surname = "Bey";
-		string title   = "C#'i PROJELERLE ÖĞRENİYORUZ...";
+		string title   = "PROJELERLE C#'i ÖĞRENİYORUZ...";
 		string welcome = "Hoşgeldiniz..";
 	}
 ```
