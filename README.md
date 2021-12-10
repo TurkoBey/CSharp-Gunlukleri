@@ -31,11 +31,11 @@ Switch Case  | [Proje Detayi](https://github.com/TurkoBey/CSharp-Gunlukleri/tree
                     
 Proje Başlığı  | Link
 ------------- | -------------
-Vucut Kitle Endeksi Hesaplama  | [Proje Detayi](https://github.com/TurkoBey/Vucut-Kitle-Indeksi-Hesaplama)
-Password-Generator | [Proje Detayi](https://github.com/TurkoBey/Password-Generator)
-Alan Hesaplama  | [Proje Detayi](https://github.com/TurkoBey/CSharp-Alan-Hesaplama)
+Vucut Kitle Endeksi Hesaplama (Konsol) | [Proje Detayi](https://github.com/TurkoBey/Vucut-Kitle-Indeksi-Hesaplama)
+Password-Generator (Konsol) | [Proje Detayi](https://github.com/TurkoBey/Password-Generator)
+Alan Hesaplama (Konsol)  | [Proje Detayi](https://github.com/TurkoBey/CSharp-Alan-Hesaplama)
 TCMB Doviz Botu | [Proje Detayi](https://github.com/TurkoBey/TCMB-Doviz-Bot)
-UzmanPara & BigPara Doviz Botu | [Proje Detayi](https://github.com/TurkoBey/UzmanPara-BigPara-Doviz-Botu)
+UzmanPara & BigPara Doviz Botu (Konsol) | [Proje Detayi](https://github.com/TurkoBey/UzmanPara-BigPara-Doviz-Botu)
 Alan & Hacim & Cevre Hesaplama | [Proje Detayi](https://github.com/TurkoBey/TurkoBey.Alan-Cevre-Hacim-Hesaplama)
 
 ----
